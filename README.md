@@ -1,11 +1,6 @@
-#react #materialui #fun
+- Created a Todo List with React and MaterialUI.
 
-Created a Todo List 🚀 with MaterialUI.
-
-🎁 Also added DELETE functionality and Responsive design🕺.
-
-What extra features can a Todo list have 🤔
-Check it out guys!
+- Also added DELETE functionality and Responsive design.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
